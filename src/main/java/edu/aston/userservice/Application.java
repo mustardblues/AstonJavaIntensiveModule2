@@ -1,4 +1,4 @@
-package edu.aston.userservice.app;
+package edu.aston.userservice;
 
 import edu.aston.userservice.gui.Cli;
 
